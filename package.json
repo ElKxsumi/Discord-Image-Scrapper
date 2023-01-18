@@ -1,0 +1,17 @@
+{
+  "name": "discordimagescrapper",
+  "version": "1.0.0",
+  "description": "A simple tool for scrap all's pictures of a discord's channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "kas!dl"
+  },
+  "keywords": [
+    "Discord",
+    "Image",
+    "Scrapper",
+    "Kasumi"
+  ],
+  "author": "Kasumi",
+  "license": "ISC"
+}
