@@ -7,9 +7,9 @@ A simple tool for scrap all's pictures of a discord's channel.
 ## Installation
 
 Install:
-U need to have node installed
+/U need to have node installed
 ```bash
-    git clone
+    git clone https://github.com/ElKxsumi/Discord-Image-Scrapper.git
     
     npm i prompt-sync
     npm i discord.js-selfbot-v13
