@@ -7,16 +7,17 @@ A simple tool for scrap all's pictures of a discord's channel.
 ## Installation
 
 Install:
-
+U need to have node installed
 ```bash
     git clone
+    
     npm i prompt-sync
     npm i discord.js-selfbot-v13
     npm i image-downloader
     npm i path
-    
-    and create folder named "dl" on the same file
-```
+```    
+And create folder named "dl" on the same file
+
 And run it with start.bat
     
 ## Authors
