@@ -14,6 +14,8 @@ Install:
     npm i discord.js-selfbot-v13
     npm i image-downloader
     npm i path
+    
+    and create folder named "dl" on the same file
 ```
 And run it with start.bat
     
