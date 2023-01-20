@@ -13,10 +13,7 @@ Install:
 ```bash
     git clone https://github.com/ElKxsumi/Discord-Image-Scrapper.git
     
-    npm i prompt-sync
-    npm i discord.js-selfbot-v13
-    npm i image-downloader
-    npm i path
+    npm i prompt-sync discord.js-selfbot-v13 image-downloader path
 ```    
 And create folder named "dl" on the same file
 
